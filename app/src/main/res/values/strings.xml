@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="karsilama">Merhaba Android Ailesi</string>
+    <string name="karsila_html">Merhaba Android</string>
+</resources>
